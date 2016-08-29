@@ -1,6 +1,4 @@
-GitHub-style preview stylesheet for [Markdown Edit](http://markdownedit.com/).
-
-The stylesheet is based on https://github.com/sindresorhus/github-markdown-css.
+GitHub-style preview stylesheet for [Markdown Edit](http://markdownedit.com/). The stylesheet is based on [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css).
 
 ## How to use:
 
